@@ -1,0 +1,21 @@
+{
+	id: 0,
+	itemName: 'Beer 1',
+	ownerName: 'Brewery 10',
+	description: 'Oktoberfest',
+	imageSrc: ''
+},
+{
+	id: 1,
+	itemName: 'Beer 2',
+	ownerName: 'Brewery 20',
+	description: 'Double IPA',
+	imageSrc: ''
+},
+{
+	id: 2,
+	itemName: 'Beer 3',
+	ownerName: 'Brewery 30',
+	description: 'Saison',
+	imageSrc: ''
+}

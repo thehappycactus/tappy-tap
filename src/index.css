@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.tap-tile {
+	width: 100%;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.tap-tile h1 {
+	font-size: 24px;
+	margin: 0;
+}
+
+.tap-tile h3 {
+	font-size: 16px;
+	margin: 0;
+}
+
+.tap-tile p {
+	font-size: 12px;
+	margin: 0;
+}
+
+.tile-left {
+	display: inline-block;
+}
+
+.information {
+	display: inline-block;
+	padding-left: 10px;
+	vertical-align: middle;
+}
+
+.tile-right {
+	display: inline-block;
+}
+
+.remaining-high {
+	color: green;
+}
+
+.remaining-medium {
+	color: yellow;
+}
+
+.remaining-low {
+	color: orange;
+}
+
+.remaining-almost-gone {
+	color: red;
+}
